@@ -1,0 +1,10 @@
+C:\Users\XLai\source\repos\proglang\proglang\obj\Debug\proglang.csproj.AssemblyReference.cache
+C:\Users\XLai\source\repos\proglang\proglang\obj\Debug\proglang.Properties.Resources.resources
+C:\Users\XLai\source\repos\proglang\proglang\obj\Debug\proglang.csproj.GenerateResource.cache
+C:\Users\XLai\source\repos\proglang\proglang\obj\Debug\proglang.csproj.CoreCompileInputs.cache
+C:\Users\XLai\source\repos\proglang\proglang\obj\Debug\proglang.Form1.resources
+C:\Users\XLai\source\repos\proglang\proglang\bin\Debug\proglang.exe.config
+C:\Users\XLai\source\repos\proglang\proglang\bin\Debug\proglang.exe
+C:\Users\XLai\source\repos\proglang\proglang\bin\Debug\proglang.pdb
+C:\Users\XLai\source\repos\proglang\proglang\obj\Debug\proglang.exe
+C:\Users\XLai\source\repos\proglang\proglang\obj\Debug\proglang.pdb
